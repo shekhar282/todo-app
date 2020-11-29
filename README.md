@@ -1,4 +1,4 @@
 # todo-app
-Todo App Usign JS
+Todo App Using JS
 
 Live Demo:- https://todo-app-nu-nine.vercel.app/
